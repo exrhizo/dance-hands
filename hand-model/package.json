@@ -1,0 +1,24 @@
+{
+  "name": "hand-model",
+  "version": "0.9.0",
+  "description": "Detect hands in an image with tensorflow.js.",
+  "main": "entry_point_index.js",
+  "scripts": {
+    "test": "echo test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/exrhizo/dance-hands.git"
+  },
+  "keywords": [
+    "tensorflow",
+    "hand",
+    "posenet"
+  ],
+  "author": "Alex Warren",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/exrhizo/dance-hands/issues"
+  },
+  "homepage": "https://github.com/exrhizo/dance-hands#readme"
+}
