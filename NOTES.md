@@ -80,3 +80,28 @@ http://workshop.chromeexperiments.com/examples/gui/#1--Basic-Usage
 
 ## THE HAND VISUALIZER
 
+
+Learning how to make a typescript package.json
+"jsnext:main" is for es6 usage
+
+I don't know if I need a "types"
+
+Different types of dependencies,
+https://yarnpkg.com/lang/en/docs/dependency-types/
+"peerDependencies"
+
+Going to use the same structure that posenet for hand-model
+Then going to use demos as the template for hand-visuals
+
+
+
+## TODO
+
+Start by runnning effects over the pose!
+
+Start by getting a working import of hand-model and see put through model
+
+update rollup.config.js
+Check if test is working
+
+
